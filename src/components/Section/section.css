@@ -1,0 +1,11 @@
+Section {
+      position: fixed;
+      top: 150px;       
+      bottom: 20px;     /* Match footer */
+      left: 0;
+      right: 0;
+      background-color:paleturquoise;
+      overflow-y: auto;
+      padding: 20px;
+    
+} 
