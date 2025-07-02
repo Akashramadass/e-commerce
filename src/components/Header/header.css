@@ -1,0 +1,33 @@
+.head {
+      background-color:darkcyan;
+      height: 150px;
+      width: 100%;
+      border: 2px solid grey;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 30px;
+      color: crimson;
+      font-style: oblique;
+      position: fixed;
+      top: 0;
+      left: 0;
+      z-index: 1000;
+    }
+
+    .logo-left {
+      height: 100px;
+      display: flex;
+      width: 50px;
+    }
+
+    .head-title {
+      flex: 1;
+      text-align: center;
+      color: darkgreen;
+    }
+
+    .head-right {
+      display: flex;
+      gap: 10px;
+    }
